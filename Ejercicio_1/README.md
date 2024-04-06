@@ -11,7 +11,7 @@
   - Tan pronto como comience un nuevo proyecto de desarrollo, es recomendable crear un archivo .gitignore para evitar incluir archivos innecesarios desde el principio.
   - Cuando se clona un repositorio existente: Si clonas un repositorio existente que no contiene un archivo .gitignore, es aconsejable crear uno adaptado a las necesidades de tu proyecto.
 
-### _¿Como configuraria el archivo .GITIGNORE? 🔧
+### _¿Como configuraria el archivo .GITIGNORE?_ 🔧
     Configuraria un archivo .gitignore para especificar los archivos y directorios que se desean ignorar en el repositorio de Git segun las necesidades del proyecto.
   
 
